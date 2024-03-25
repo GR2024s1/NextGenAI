@@ -1,0 +1,9 @@
+# Activity 1
+import math
+# Print the value of pi
+print (math.pi)
+# r.4/3 pir|3
+# for raduis r = 5
+r=5
+volume = r* 4/3 * (math.pi) * 3**3
+print("Volume is: " ,volume)
